@@ -2,3 +2,7 @@
 """
 Remember this is a pygame module snake game and it can pite  you.
 """
+
+"""
+Remember this is secondary branch committee.
+"""
